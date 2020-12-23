@@ -1,0 +1,5 @@
+Test
+Lesson 5
+Основы языка Python
+Это строка для тестирования задания № 2
+wefwffw we wefw
